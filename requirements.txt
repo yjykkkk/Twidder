@@ -1,0 +1,5 @@
+Flask
+gunicorn
+gevent
+flask-sock
+flask-bcrypt
